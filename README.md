@@ -24,7 +24,7 @@ I'm passionate about programming, exploring new technologies, and building proje
 - 🔐 **[GhostTrace](https://github.com/jd2207-ui/GhostTrace)** — A Streamlit-based privacy deletion auditing prototype.
 - 🌐 **[Portfolio Website](https://future-glow-portfolio-39.lovable.app)** — My personal web development project.
 - 🤖 **[ML Project](https://github.com/jd2207-ui/mlproject3)** — Exploring data analysis, model training, and prediction using Python.
-- 💻 **[Swasthya-Setu](https://swasthya-setu-b8686.web.app)**
+- 💻 **[Swasthya-Setu](https://swasthya-setu-b8686.web.app)** — To practice web development, UI design skills.
 
 ## 🎯 Current Goals
 
