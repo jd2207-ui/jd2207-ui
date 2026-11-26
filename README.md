@@ -1,8 +1,6 @@
 
 # 👋 Hi, I'm a Developer!
 
-🎓 Student at **[Your College Name]**
-
 I'm passionate about programming, exploring new technologies, and building projects that solve real-world problems.
 
 - 🤖 Interested in Machine Learning and Artificial Intelligence
